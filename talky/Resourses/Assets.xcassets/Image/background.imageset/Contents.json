@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1636920819_45-bogatyr-club-p-fon-dlya-prilozheniya-45.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
